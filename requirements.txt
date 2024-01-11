@@ -1,0 +1,21 @@
+
+# Run
+# pip install -r requirements.txt
+
+
+# Requirments to install ml libs and packages
+numpy
+pandas
+scikit-learn
+matplotlib
+
+
+# For spyder ide
+spyder-kernels
+
+
+# For Huggingface (For CPU only support)
+transformers[torch]
+# transformers[tf-cpu]
+
+

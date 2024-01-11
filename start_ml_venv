@@ -1,0 +1,4 @@
+cd ml-venv-linux/bin
+source activate
+cd ..
+cd ..
